@@ -1,0 +1,90 @@
+/* 🌸 emma's etherial bloom: custom stylesheet for chainlit 🌸 */
+
+body {
+    background-color: #fdf7f2;
+    font-family: 'Playfair Display', serif;
+    color: #3b2f2f;
+}
+
+#app {
+    backdrop-filter: blur(4px);
+    background: linear-gradient(145deg, #fff1ec 0%, #f9e8f8 100%);
+}
+
+/* chat container */
+.cl-chat {
+    border-radius: 20px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    background-color: #fffaf6;
+    padding: 1rem;
+    border: 1px solid #f0e4e4;
+}
+
+/* user message */
+.cl-chat-message.user {
+    background: #fbeef3;
+    color: #4a3b3b;
+    font-weight: 500;
+    border-radius: 16px 16px 4px 16px;
+    padding: 0.75rem;
+    margin: 0.5rem 0;
+}
+
+/* assistant message */
+.cl-chat-message.assistant {
+    background: #fff4ed;
+    color: #332222;
+    border-radius: 16px 4px 16px 16px;
+    padding: 0.75rem;
+    margin: 0.5rem 0;
+    font-style: italic;
+}
+
+/* input bar */
+.cl-input {
+    border-radius: 999px;
+    border: 1px solid #f2dadf;
+    background-color: #fff;
+    color: #3b2f2f;
+    padding: 0.75rem 1.25rem;
+    font-family: 'Inter', sans-serif;
+}
+
+/* send button */
+.cl-send-button {
+    background: #e6adc1;
+    color: white;
+    border-radius: 999px;
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+
+.cl-send-button:hover {
+    background: #c989a9;
+}
+
+/* system & timestamp text */
+.cl-chat-message .meta {
+    font-size: 0.8rem;
+    color: #a77e8d;
+}
+
+/* scrollbars */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f7e7ec;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #d6a0b6;
+    border-radius: 999px;
+}
+
+/* links */
+a {
+    color: #c779a7;
+    text-decoration: underline;
+}
