@@ -1,2 +1,2 @@
 # emma
-A Personalized Branding Assistant for Aspiring Tech Professionals
+A personalized branding assistant for aspiring tech professionals.
