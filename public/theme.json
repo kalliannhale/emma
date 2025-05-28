@@ -1,0 +1,39 @@
+{
+  "custom_fonts": [
+    "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&family=Inter:wght@400;600&display=swap"
+  ],
+  "variables": {
+    "light": {
+      "--font-sans": "'Inter', sans-serif",
+      "--font-mono": "'Courier New', monospace",
+      "--background": "0 0% 98%",
+      "--foreground": "270 3% 10%",
+      "--primary": "315 80% 60%",
+      "--primary-foreground": "0 0% 100%",
+      "--accent": "280 50% 95%",
+      "--accent-foreground": "270 3% 10%",
+      "--card": "0 0% 100%",
+      "--card-foreground": "270 3% 10%",
+      "--sidebar-background": "280 40% 98%",
+      "--sidebar-foreground": "270 3% 10%",
+      "--ring": "315 80% 60%",
+      "--radius": "1.2rem"
+    },
+    "dark": {
+      "--font-sans": "'Inter', sans-serif",
+      "--font-mono": "'Courier New', monospace",
+      "--background": "270 3% 8%",
+      "--foreground": "0 0% 100%",
+      "--primary": "315 80% 60%",
+      "--primary-foreground": "0 0% 100%",
+      "--accent": "280 30% 30%",
+      "--accent-foreground": "0 0% 100%",
+      "--card": "270 3% 12%",
+      "--card-foreground": "0 0% 100%",
+      "--sidebar-background": "270 3% 10%",
+      "--sidebar-foreground": "0 0% 98%",
+      "--ring": "315 80% 60%",
+      "--radius": "1.2rem"
+    }
+  }
+}
