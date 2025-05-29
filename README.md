@@ -44,22 +44,15 @@ Agents communicate via a central coordination hub to maintain a cohesive and con
 
 Designed to grow with you — adapting over time as your skills, goals, and confidence evolve.
 
-🔧 Tech Stack (Under Construction)
-🧠 Python – Core logic & frontend interactions
-🤖 Multi-agent architecture – Modular AI agents for different branding tasks
-    - Uses DeepSeek-R1 for its accessibility and high context window
-🪞 Platform APIs – Integration with LinkedIn for Authentication & profile parsing, GitHub, Kaggle, Hugging Face, and more
-🗂️ Lightweight database – User state, progress tracking, and content history
-🎨 Human-centered UX – Simple, calming, and beginner-friendly design
-
 **🤝 Who is EMMA For?**
 Students building their first tech portfolios
 Career switchers trying to gain visibility
 Women, BIPOC, LGBTQIA+, and neurodivergent professionals navigating tech spaces
-Creatives and introverts who value authenticity over self-promotion
+First-gen and non-traditional tech professionals
+Introverts, creatives, neurodivergent thinkers, and soft-spoken innovators
 
 
-🌱 Contributing
+**🌱 Contributing**
 EMMA is community-centered and open-source. We’re actively welcoming:
 
 Developers (backend, frontend, AI/ML)
